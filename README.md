@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon López</h1>
 <h3 align="center">A passionate Data Science/Analyst from México</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning and Python for finance**
 
 - 👯 I’m looking to collaborate on **Data, web3 and financial projects**
 
